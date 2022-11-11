@@ -5,16 +5,16 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: Sup bruh 😎
-    Content: This is something shows in your homepage.
+    Title: Hello there!
+    Content: Welcome to my digital garden!
 
   socialIcons: # optional
     - name: "github"
-      url: "https://github.com/XXX"
+      url: "https://github.com/DonSqualo"
     # - name: "youtube"
     #   url: "https://www.youtube.com/channel/XXX"
     - name: "twitter"
-      url: "https://twitter.com/XXX"
+      url: "https://twitter.com/heyegross"
     # - name: "kofi"
     #   url: "https://buymeacoffee.com/XXX"
     # - name: "rss"
