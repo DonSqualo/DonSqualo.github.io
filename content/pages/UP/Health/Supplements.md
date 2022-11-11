@@ -2,20 +2,91 @@
 alias:
 - sups
 - SuppStack
-date: 2022-10-11
+date: 2022-11-10
 tags:
+- Biohacking
+- ArcadiaOS
 - Biohacking
 - ArcadiaOS
 category:
 - Health
+- Health
 title: UP/Health/Supplements
+fileName: up/health/supplements
 categories:
+- Health
 - Health
 lastMod: 2022-11-10
 ---
 # Current Stack
 
 heye.earth/life
+
+@@html: <a href="https://heye.earth/life](https://heye.earth/life/small-molecules">Original Post on my live website</a>
+<table>
+    <tr>
+        <td>Sup</td>
+        <td>/ day</td>
+    </tr>
+    <tr>
+        <td>[[AG1]]</td>
+        <td>Pack</td>
+    </tr>
+    <tr>
+        <td>Vitamin D3</td>
+        <td>3000 I/U</td>
+    </tr>
+    <tr>
+        <td>Magnesium (Keto)</td>
+        <td>500mg</td>
+    </tr>
+    <tr>
+        <td>Salt (Keto)</td>
+        <td>&gt; 10g ?</td>
+    </tr>
+    <tr>
+        <td>B12</td>
+        <td>112 µg</td>
+    </tr>
+    <tr>
+        <td>Creatine</td>
+        <td>3g (10g for 10 days)</td>
+    </tr>
+    <tr>
+        <td>Citruline Malate</td>
+        <td>6g pre Workout</td>
+    </tr>
+    <tr>
+        <td>Sauerkraut (fermented food)</td>
+        <td>spoon</td>
+    </tr>
+    <tr>
+        <td>L-Carnitine</td>
+        <td>500mg</td>
+    </tr>
+    <tr>
+        <td>Glycine</td>
+        <td>5g</td>
+    </tr>
+    <tr>
+        <td>EPA/DHA</td>
+        <td>2g</td>
+    </tr>
+    <tr>
+        <td>Protein Powder</td>
+        <td>30g</td>
+    </tr>
+    <tr>
+        <td>Melatonin</td>
+        <td>0.5mg</td>
+    </tr>
+    <tr>
+        <td>$\beta$-Alanine</td>
+        <td>sustained release 5g</td>
+    </tr>
+</table>@@
+
+
 
 id:: 636978a6-74ec-4702-a7a7-fcb6cbcdbafd
 | Sup | / day | in stock |
