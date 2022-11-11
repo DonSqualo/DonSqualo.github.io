@@ -54,3 +54,8 @@ menu:
       name: Archive
       url: /archives/
       weight: 20
+
+markup:
+  markup.goldmark:
+    markup.goldmark.renderer:
+      unsafe = true
