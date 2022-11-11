@@ -3,9 +3,14 @@ alias:
 - sups
 - SuppStack
 date: 2022-10-11
-title: UP/Health/Supplements
 tags:
+- Biohacking
+- ArcadiaOS
+category:
+- Health
+title: UP/Health/Supplements
 categories:
+- Health
 lastMod: 2022-11-10
 ---
 # Current Stack
