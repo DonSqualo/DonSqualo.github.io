@@ -22,7 +22,7 @@ lastMod: 2022-11-10
 
 heye.earth/life
 
-@@html: <a href="https://heye.earth/life](https://heye.earth/life/small-molecules">Original Post on my live website</a>
+<a href="https://heye.earth/life](https://heye.earth/life/small-molecules">Original Post on my live website</a>
 <table>
     <tr>
         <td>Sup</td>
@@ -84,7 +84,7 @@ heye.earth/life
         <td>$\beta$-Alanine</td>
         <td>sustained release 5g</td>
     </tr>
-</table>@@
+</table>
 
 
 
