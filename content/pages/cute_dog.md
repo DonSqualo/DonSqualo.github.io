@@ -9,8 +9,7 @@ fileName: cute_dog
 categories: ML
 lastMod: 2022-11-10
 ---
-Hello
-# WHY?
+# My first image classifier
 <input id="photo" type="file">
 <div id="results"></div>
 <script>
@@ -30,5 +29,3 @@ Hello
   }
   photo.addEventListener('input', read);
 </script>
-
-END
