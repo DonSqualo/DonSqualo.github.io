@@ -10,6 +10,8 @@ categories: ML
 lastMod: 2022-11-10
 ---
 # My first image classifier
+{{ < rawhtml >}}
+<h2>An inline HTML block</h2>
 <input id="photo" type="file">
 <div id="results"></div>
 <script>
@@ -29,3 +31,5 @@ lastMod: 2022-11-10
   }
   photo.addEventListener('input', read);
 </script>
+
+{{ < /rawhtml >}}
